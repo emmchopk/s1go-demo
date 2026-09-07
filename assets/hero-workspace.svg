@@ -1,0 +1,34 @@
+<svg width="1120" height="820" viewBox="0 0 1120 820" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Web and app design workspace</title>
+  <desc id="desc">Desktop website, mobile app, and analytics dashboard mockups on a studio desk.</desc>
+  <rect width="1120" height="820" rx="48" fill="#F7FAF9"/>
+  <rect x="86" y="94" width="754" height="480" rx="28" fill="#17212B"/>
+  <rect x="116" y="134" width="694" height="400" rx="18" fill="#FFFFFF"/>
+  <rect x="116" y="134" width="694" height="58" rx="18" fill="#EAF2F1"/>
+  <circle cx="151" cy="164" r="8" fill="#EE6C4D"/>
+  <circle cx="177" cy="164" r="8" fill="#F2B84B"/>
+  <circle cx="203" cy="164" r="8" fill="#0F766E"/>
+  <rect x="148" y="232" width="260" height="42" rx="8" fill="#17212B"/>
+  <rect x="148" y="298" width="340" height="16" rx="8" fill="#687380"/>
+  <rect x="148" y="330" width="294" height="16" rx="8" fill="#AAB8BF"/>
+  <rect x="148" y="386" width="132" height="46" rx="8" fill="#0F766E"/>
+  <rect x="306" y="386" width="132" height="46" rx="8" fill="#EAF2F1"/>
+  <rect x="552" y="230" width="196" height="236" rx="18" fill="#2F5F98"/>
+  <circle cx="650" cy="310" r="54" fill="#F2B84B"/>
+  <rect x="592" y="394" width="116" height="14" rx="7" fill="#FFFFFF"/>
+  <rect x="614" y="424" width="72" height="14" rx="7" fill="#C8E5E0"/>
+  <rect x="250" y="574" width="426" height="34" rx="17" fill="#C9D5D9"/>
+  <rect x="386" y="608" width="156" height="66" rx="18" fill="#DCE4EA"/>
+  <rect x="744" y="212" width="218" height="440" rx="34" fill="#17212B"/>
+  <rect x="765" y="250" width="176" height="354" rx="24" fill="#FFFFFF"/>
+  <rect x="800" y="288" width="106" height="20" rx="10" fill="#0F766E"/>
+  <rect x="800" y="332" width="96" height="96" rx="22" fill="#EAF2F1"/>
+  <path d="M827 389L850 353L879 405H820L827 389Z" fill="#EE6C4D"/>
+  <rect x="800" y="462" width="106" height="14" rx="7" fill="#17212B"/>
+  <rect x="800" y="494" width="82" height="14" rx="7" fill="#AAB8BF"/>
+  <rect x="800" y="536" width="106" height="42" rx="8" fill="#0F766E"/>
+  <rect x="112" y="674" width="842" height="36" rx="18" fill="#DCE4EA"/>
+  <rect x="134" y="696" width="694" height="28" rx="14" fill="#C9D5D9"/>
+  <circle cx="898" cy="696" r="64" fill="#EE6C4D"/>
+  <path d="M864 698C886 650 923 650 942 698C920 722 887 722 864 698Z" fill="#FFFFFF"/>
+</svg>
